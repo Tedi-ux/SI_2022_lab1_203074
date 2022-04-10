@@ -1,1 +1,2 @@
-# SI_2022_lab1_203074
+Teodor Stojkovski
+203074
